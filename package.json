@@ -1,0 +1,1 @@
+{"name":"voidcode-ide","version":"0.1.0","description":"Modern lightweight desktop code editor and build environment","main":"src/main.js","license":"MIT","scripts":{"start":"electron .","dist":"electron-builder --win nsis"},"devDependencies":{"electron":"^38.1.0","electron-builder":"^26.0.12"}}
